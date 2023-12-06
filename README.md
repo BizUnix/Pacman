@@ -38,18 +38,3 @@ Python:
 # finalXposition, finalYposition, totalCoins
 return (1, 4, 7)
 ```
-We will be testing edge cases on your code, so if there are any problems with the inputs, execution of the instructions, or any other cases you can think of, have your `pacman` function return `(-1, -1, 0)`.
-
-# Getting Started
-1. Clone this git repository and build your solution. Your solution will define a method `pacman` that returns an output (Python example can be found in the starter_code directory).
-2. Place your solution in the test_files directory. One you think you have a working solution, test it with the 3 sample test files we have provided. The test_key.csv file includes the test cases we'll be using when we test your solution. Calling `pacman(generic.txt)`, for example, should return `6,1,27`.
-
-# Evaluation Criteria
-The point of the exercise is for us to see some of the code you wrote (and should be proud of). There isn't a single solution and the problem intentionally allows you creative freedom and ability to flex your skill. We believe we can learn a lot from how you approach a small challenge like this, and think it can be fun to write as well!
-
-We will especially consider:
-- Code organization
-- Quality, including tests you may write yourself
-- Readability
-- Actually solving the problem (edge cases included)
-
