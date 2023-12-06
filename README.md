@@ -44,14 +44,6 @@ We will be testing edge cases on your code, so if there are any problems with th
 1. Clone this git repository and build your solution. Your solution will define a method `pacman` that returns an output (Python example can be found in the starter_code directory).
 2. Place your solution in the test_files directory. One you think you have a working solution, test it with the 3 sample test files we have provided. The test_key.csv file includes the test cases we'll be using when we test your solution. Calling `pacman(generic.txt)`, for example, should return `6,1,27`.
 
-# Deliverable
-## The program
-- Must be written in Python, C#, Ruby, or Java. 
-- Can make use of any existing open source libraries that don't directly address the problem statement (use your best judgement).
-
-## How to submit
-Submit a zipped copy of the whole repository with your solution code and any tests you created in the test_files folder. Please also include instructions on how to run and test your program. 
-
 # Evaluation Criteria
 The point of the exercise is for us to see some of the code you wrote (and should be proud of). There isn't a single solution and the problem intentionally allows you creative freedom and ability to flex your skill. We believe we can learn a lot from how you approach a small challenge like this, and think it can be fun to write as well!
 
